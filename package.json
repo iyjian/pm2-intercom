@@ -6,16 +6,16 @@
   "scripts": {
     "test": "DEBUG='*' mocha test/*.mocha.js"
   },
-  "dependencies" : {
-    "pm2"    : "Unitech/pm2#development",
-    "pmx"    : "latest",
-    "async"  : "latest",
-    "semver" : "*"
+  "dependencies": {
+    "pm2": "Unitech/pm2#development",
+    "pmx": "latest",
+    "async": "latest",
+    "semver": "*"
   },
   "devDependencies": {
-    "mocha"           : "2.x",
-    "should"          : "^7.0.0",
-    "better-assert"   : "^1.0.0"
+    "mocha": "2.x",
+    "should": "^7.0.0",
+    "better-assert": "^1.0.0"
   },
   "keywords": [
     "pubsub",
@@ -26,8 +26,8 @@
     "axon",
     "pm2"
   ],
-  "config" : {
-    "default-strategy" : "broadcast"
+  "config": {
+    "default-strategy": "broadcast"
   },
   "author": "Alexandre Strzelewicz",
   "license": "MIT"
