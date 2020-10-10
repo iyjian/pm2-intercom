@@ -1,6 +1,6 @@
 {
-  "name": "pm2-intercom",
-  "version": "1.0.0",
+  "name": "pm2-intercom-live",
+  "version": "1.0.1",
   "description": "Basic system to broadcast message to all other processes",
   "main": "index.js",
   "scripts": {
